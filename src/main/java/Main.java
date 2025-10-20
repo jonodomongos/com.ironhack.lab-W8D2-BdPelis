@@ -12,6 +12,7 @@ public class Main {
         - recaudación
 
         Primero, prueba a hacer consultas con los botoncitos: select, update, delete, insert...
+
         Después haz consultas del tipo:
             - Ver solo titulo y año
             - Todas las películas producidas a partir de cierto año, en orden ascendente o descendente
